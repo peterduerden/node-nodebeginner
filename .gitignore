@@ -1,4 +1,20 @@
+# Mac OSX
 .DS_Store
 .komodotools
-node_modules
 *.komodoproject
+
+# Node
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
